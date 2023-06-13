@@ -1,0 +1,8 @@
+Data about data.
+One person’s metadata is another person’s data
+Information that makes data useful
+A description of what the data is, for use by others, and by
+you when you’ve forgotten
+And more and more, by automated systems
+A means to understand the data, and possibly reproduce the
+data (or make an equivalent observation)

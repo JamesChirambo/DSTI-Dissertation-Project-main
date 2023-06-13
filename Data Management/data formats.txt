@@ -1,0 +1,8 @@
+ 
+The meaning of digital data is captured at (at least) three levels:
+ 
+1. How to record numbers and characters as groups of bits (encoding)
+ 
+2. How to interpret the arrangement of the numbers or characters (file format)
+ 
+3. How to collect bits into groups with meaning (files, records) 

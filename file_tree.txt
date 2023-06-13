@@ -1,0 +1,88 @@
+.
+├── Data Management
+│   ├── Data Formats
+│   │   ├── formats.txt
+│   │   └── formats.txt:Zone.Identifier
+│   ├── Data Lifecycle
+│   │   ├── Data Lifecycle Models.docx
+│   │   ├── Data Lifecycle Models.docx:Zone.Identifier
+│   │   ├── Data Management Plan
+│   │   │   ├── DMP.md
+│   │   │   └── DMP.md:Zone.Identifier
+│   │   └── DataOne
+│   │       ├── 01. Plan.txt
+│   │       ├── 01. Plan.txt:Zone.Identifier
+│   │       ├── 02. Collect.txt
+│   │       ├── 02. Collect.txt:Zone.Identifier
+│   │       ├── 03. Assure.txt
+│   │       ├── 03. Assure.txt:Zone.Identifier
+│   │       ├── 04. Describe.txt
+│   │       ├── 04. Describe.txt:Zone.Identifier
+│   │       ├── 05. Preserve.txt
+│   │       ├── 05. Preserve.txt:Zone.Identifier
+│   │       ├── 06. Discover.txt
+│   │       ├── 06. Discover.txt:Zone.Identifier
+│   │       ├── 07. Integrate.txt
+│   │       ├── 07. Integrate.txt:Zone.Identifier
+│   │       ├── 08. Analyse.txt
+│   │       └── 08. Analyse.txt:Zone.Identifier
+│   ├── data formats.txt
+│   ├── data formats.txt:Zone.Identifier
+│   ├── metadata.txt
+│   └── metadata.txt:Zone.Identifier
+├── Project Prep
+│   ├── Feasibility
+│   │   └── Concept
+│   │       └── Project Ideas
+│   │           ├── Comparative Analysis of GAN-based Image Upscaling Methods.md
+│   │           ├── Comparative Analysis of GAN-based Image Upscaling Methods.md:Zone.Identifier
+│   │           ├── Designing and Implementing a GAN-based Approach for Enlarging a Low-Resolution Images.md
+│   │           ├── Designing and Implementing a GAN-based Approach for Enlarging a Low-Resolution Images.md:Zone.Identifier
+│   │           ├── Identify Pneumonia in X-rays using GANs.md
+│   │           ├── Identify Pneumonia in X-rays using GANs.md:Zone.Identifier
+│   │           ├── Interpret skin lesions in different types of skins using CNN and GANs.md
+│   │           ├── Interpret skin lesions in different types of skins using CNN and GANs.md:Zone.Identifier
+│   │           ├── Literature.md
+│   │           └── Literature.md:Zone.Identifier
+│   ├── Meetings
+│   │   ├── meeting-20230418.md
+│   │   └── meeting-20230418.md:Zone.Identifier
+│   ├── README.md
+│   ├── README.md:Zone.Identifier
+│   ├── repo_review
+│   │   ├── code_ideas.md
+│   │   ├── code_ideas.md:Zone.Identifier
+│   │   ├── summary.md
+│   │   └── summary.md:Zone.Identifier
+│   └── template
+│       ├── 225px-Epcc_logo.jpg
+│       ├── 225px-Epcc_logo.jpg:Zone.Identifier
+│       ├── CREST_~1.PDF
+│       ├── CREST_~1.PDF:Zone.Identifier
+│       ├── beamercolorthemeedinburgh.sty
+│       ├── beamercolorthemeedinburgh.sty:Zone.Identifier
+│       ├── beamerthemeEdinburgh.sty
+│       ├── beamerthemeEdinburgh.sty:Zone.Identifier
+│       ├── crest_rb.eps
+│       ├── crest_rb.eps:Zone.Identifier
+│       ├── crest_rb.jpg
+│       ├── crest_rb.jpg:Zone.Identifier
+│       ├── crest_rb.pdf
+│       ├── crest_rb.pdf:Zone.Identifier
+│       ├── crest_rb.png
+│       ├── crest_rb.png:Zone.Identifier
+│       ├── logo_colour.eps
+│       ├── logo_colour.eps:Zone.Identifier
+│       ├── logo_colour.pdf
+│       ├── logo_colour.pdf:Zone.Identifier
+│       ├── logo_epcc.png
+│       ├── logo_epcc.png:Zone.Identifier
+│       ├── slides(1).tex
+│       ├── slides(1).tex:Zone.Identifier
+│       ├── template.tex
+│       └── template.tex:Zone.Identifier
+├── README.md
+├── README.md:Zone.Identifier
+└── file_tree.txt
+
+12 directories, 73 files
